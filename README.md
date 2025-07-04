@@ -1,4 +1,4 @@
-# KRISH NAIK COURSES – HANDWRITTEN NOTES
+# KRISH NAIK COURSES MY HANDWRITTEN NOTES - 850+ PAGES UPLOADED
 
 Welcome to my personal collection of handwritten notes from **Krish Naik Sir’s most popular courses**, created with love to help learners in **Data Science, Machine Learning, Deep Learning, MLOps**, and **Generative AI**.
 
@@ -21,11 +21,10 @@ Purely project-based course with no theoretical content, so no notes taken.
 ## 2) BOOKS I STILL HAVE (Not Yet Uploaded)
 
 I also have handwritten notes for the following:
-- **Mathematics – Basics to Advanced for Data Science and GenAI**
 - **Abdul Bari’s DSA YouTube Series**
 - **DSA in Python – GFG Paid Course by Sandeep Jain**
 
-These two DSA books together and math course nearly **1000pages**!
+These two DSA books together nearly **1000pages**!
 
 ## 3) WANT MORE BOOKS?
 If you find the current books helpful and easy to understand, please let me know by **commenting or messaging**.
