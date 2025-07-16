@@ -1,4 +1,4 @@
-# KRISH NAIK COURSES MY HANDWRITTEN NOTES - 850+ PAGES UPLOADED
+# KRISH NAIK COURSES MY HANDWRITTEN NOTES - 900+ PAGES UPLOADED
 
 Welcome to my personal collection of handwritten notes from **Krish Naik Sir’s most popular courses**, created with love to help learners in **Data Science, Machine Learning, Deep Learning, MLOps**, and **Generative AI**.
 
@@ -7,13 +7,13 @@ Welcome to my personal collection of handwritten notes from **Krish Naik Sir’s
 These are the books currently shared in this repository:
 
 ### Courses with Handwritten Notes:
-1. **Mathematics – Basics to Advanced for Data Science and GenAI**
-2. **Complete Data Science, Machine Learning, DL, NLP Bootcamp**
-3. **Complete MLOps Bootcamp with 10+ End-to-End ML Projects**
-4. **Complete Generative AI Course with Langchain and Huggingface**  
+1. **Mathematics – Basics to Advanced for Data Science and GenAI**   ~264 pages
+2. **Complete Data Science, Machine Learning, DL, NLP Bootcamp**     ~468 pages
+3. **Complete MLOps Bootcamp with 10+ End-to-End ML Projects**       ~46 pages
+4. **Complete Generative AI Course with Langchain and Huggingface**  ~77 pages
    ✔️ Includes both theory and 15+ projects  
    ✔️ Highly requested handwritten book
-5. **Complete Agentic Ai Bootcamp with LangGrapg and LangChain**.
+5. **Complete Agentic Ai Bootcamp with LangGrapg and LangChain**.    ~52 pages
 
 ### Course without Notes:
 - **Building Gen AI App – 12+ Hands-on Projects with Gemini Pro**  
