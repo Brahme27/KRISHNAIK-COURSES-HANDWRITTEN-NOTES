@@ -13,7 +13,7 @@ These are the books currently shared in this repository:
 4. **Complete Generative AI Course with Langchain and Huggingface**  
    ✔️ Includes both theory and 15+ projects  
    ✔️ Highly requested handwritten book
-5. **Complete Agentic Ai Bootcamp with LangGrapg and LangChain**
+5. **Complete Agentic Ai Bootcamp with LangGrapg and LangChain**.
 
 ### Course without Notes:
 - **Building Gen AI App – 12+ Hands-on Projects with Gemini Pro**  
